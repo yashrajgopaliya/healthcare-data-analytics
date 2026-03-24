@@ -1,9 +1,67 @@
-# HealthCare-Analytics-Projects
-These are projects for healthcare analytics. The projects are based on open data on health care.
+# Healthcare Data Analytics Project
 
-<ol>
-  <a href="https://github.com/adityakumaar/HealthCare-Analytics-Projects/tree/main/Analysis%20of%20Patients%20with%20Diabetes" > Diabetic patients analysis </a> <br>
-  <a href="https://github.com/adityakumaar/HealthCare-Analytics-Projects/tree/main/Health%20Care%20Analytics%20-Basic%20EDA%20and%20Visualization" >Basic EDA on health care data</a> <br>
-  <a href="https://github.com/adityakumaar/HealthCare-Analytics-Projects/tree/main/Predicting%20Heart%20Diseas" >Predicting Heart Diseases</a> <br>
-  <a href="https://github.com/adityakumaar/HealthCare-Analytics-Projects/tree/main/Tableau%20Dashboard%20of%20Covid%2019%20in%20India" >Tableau Dashboard </a> <br>
-</ol>
+## Overview
+This project focuses on analyzing healthcare datasets such as diabetes and heart disease to identify patterns and support better medical decision-making.
+
+---
+
+## Objectives
+- Analyze patient datasets to understand disease patterns
+- Perform exploratory data analysis (EDA)
+- Visualize key healthcare trends
+- Understand factors influencing diseases
+
+---
+
+## Datasets Used
+- Diabetes dataset
+- Heart disease dataset
+- COVID-19 dataset (India)
+
+---
+
+## Key Work Done
+- Data cleaning and preprocessing
+- Exploratory data analysis (EDA)
+- Data visualization using graphs
+- Basic disease prediction understanding
+
+---
+
+## My Contribution
+- Added personal analysis notes (`my_analysis_notes.md`)
+- Studied dataset features and relationships
+- Identified key health indicators like age, glucose, cholesterol
+- Documented insights and future improvements
+
+---
+
+## Tools & Technologies
+- Python
+- Pandas
+- Matplotlib
+- Jupyter Notebook
+
+---
+
+## Key Insights
+- Age and lifestyle significantly impact disease risk
+- Early prediction can reduce healthcare costs
+- Visualization simplifies complex medical data
+
+---
+
+## Project Structure
+healthcare-data-analytics/
+├── Analysis of Patients with Diabetes/
+├── Predicting Heart Diseases/
+├── Health Care Analytics - Basic EDA and Visualization/
+├── Tableau Dashboard of Covid 19 in India/
+├── my_analysis_notes.md
+└── README.md
+
+
+
+Author
+
+Yashraj Gopaliya
